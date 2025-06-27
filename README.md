@@ -48,8 +48,4 @@ For Linux users, similar steps can be done using:
 ```bash
 sudo ufw deny 23
 telnet localhost 23
-
----
-
-Let me know if you'd like this saved as a `.md` file or want to include Linux commands/screenshots too!
 ```
